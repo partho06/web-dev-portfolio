@@ -12,8 +12,10 @@
 }
 
 
-
-
+/* shared style */
+.text-primary{
+    color: #FD6E0A;
+}
 /* nav styles */
 nav{
     display: flex;
@@ -23,3 +25,7 @@ nav{
     font-weight: 800;
     font-size: 45px;
     }
+
+
+
+    
