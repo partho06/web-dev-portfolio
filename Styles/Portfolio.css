@@ -25,18 +25,18 @@
     color: red;
 }
   
-nav ul li {
+ ul li{
     list-style: none;
 }
 
 
-nav li a {
+li a {
     text-decoration: none;
     font-size: 20px;
 }
 
 
-nav>ul {
+ul {
     display: flex;
 }
 
